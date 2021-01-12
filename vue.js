@@ -37,7 +37,7 @@ const App = {
     setActive(index) {
       // когда нажимаем на определенный шаг
       this.activeIndex = index
-    },
+    }
   },
   computed: {
     // тут стоит определить несколько свойств:
